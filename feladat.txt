@@ -1,0 +1,20 @@
+Készíts Python programot listak.py néven és a kövekető feladatokat oldd meg benne!
+
+1. A program  felhasználótól keresztneveket kér be egészen addig, amíg az üres ENTER-t nem üt (nem ad meg újabb nevet a bekérésnél)! 
+A program a bekért neveket írja ki a képernyőre!
+
+2. A program generáljon 10 darab véletlenszámot [0;50] intervallumon, de csak a 4-gyel oszthatóakat rögzítse egy listában. 
+A végén jelenítse meg a listát a képernyőn, és írja ki azt is, hány elemből áll a lista.
+
+3. Az alábbi adott lista  elemei közül a program kiírja a "t" és "T" betűkkel kezdődőeket!
+szavak = ['ajtó','tojás','Ottó','Tamás', 'tép','Tesla','alma','python']
+
+4. A program kélyen be egy mondatot majd  a felhasználó által megadott mondatról a mondatvégi jel alapján eldönti milyen fajtájú!
+ (kijelentő, kérdő, felkiáltó / felszólító / óhatjtó) Írja a ki a képernyőre a fajtát!
+
+5. A program tároljon egy listában színeket. Kérjen be a felhasználótól egy színt, és állapítsa meg, hogy a megadott szín már szerepel-e az adott listában. 
+A vizsgálat eredményéről tájékoztassa a program a felhasználót, és írja ki egymás mellé vesszővel elválasztva a lista által tartalmazott színeket!
+
+6. A program generáljon 10 darab véletlenszámot [1;3] intervallumon, ezeket tárolja egy listában, a lista tartalmát írja ki a képernyőre! A felhasználónak legyen 
+lehetősége megadni egy számot [1;3] intervallumon, és a program törölje ennek a számnak valamennyi előfordulását a listából, 
+majd írja ki a módosított listát a képernyőre!
