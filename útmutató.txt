@@ -1,0 +1,29 @@
+-szia,mi ujság, hello -> Vissza köszön neked
+-a -> b
+-b -> a
+-új -> régi
+
+-open browser -> megy nyitja a chrome-ot
+-open file -> meg nyitja azt a folder-t ahol a project elhelyezkedik
+
+---------------------------------------
+(Komplex parancsok: Ezeket speciális modon kell beírni öket hogy müködjenek. (Sablon: objectum;item (,item2,item3) ))
+
+-number -> össze add pozitív egész számokat (Sablon: number;2,50,10,...)
+-scream -> felnagyitja a megadott szöveget (Sablon: scream;waaaa én egy szöveg vagyok)
+-i/h -> ha a szám nagyobb 1000-nél akkor IGAZ ha kissebb akkor HAMIS (Sablon: i/h;1200,400,1000,6000,...)
+-creat_new_file -> egy új txt file-t hozz létre a mappán belül (Használatakor a használatban lévő file tartalma törlödik) (Sablon: creat_new_file;valaminév(.txt) )
+-delet_file -> ki törli a megadott file-t (Használatakor a használatban lévő file tartalma törlödik) (Sablon: delet_file;valaminév(.txt) )
+
+---------------------------------------
+FILE EDIT
+
+file_edit -> ezz egy külön részleg re visz ami megengedi hogy editálj egy létező file-t consolon belűl.
+
+
+
+
+
+
+
+
